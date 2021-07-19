@@ -2,7 +2,7 @@
 
 [Magento 2 Custom Option Absolute Price](https://www.ulmod.com/custom-options-absolute-price-for-magento-2.html)  is a Magento 2 extension that  add absolute price type to the default Magento 2 customizable options.
 
-With Magento 2 Custom Option Absolute Price, you can build a flexible pricing strategy for specific products and offers another type of charge (absolute price) on custom options.
+With Magento 2 Custom Option Absolute Price, you can build a flexible pricing strategy for specific products by offering another type of charge (absolute price) on custom options.
 
 <a href="https://www.ulmod.com/custom-options-absolute-price-for-magento-2.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
